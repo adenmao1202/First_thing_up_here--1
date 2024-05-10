@@ -1,3 +1,0 @@
-/Users/mouyasushi/Desktop/C++ project /build/CMakeFiles/MyApp.dir
-/Users/mouyasushi/Desktop/C++ project /build/CMakeFiles/edit_cache.dir
-/Users/mouyasushi/Desktop/C++ project /build/CMakeFiles/rebuild_cache.dir
